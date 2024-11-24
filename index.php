@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Selamat Datang Di Soul Society</h1>
+    <p>Selamat datang para kapten gotei 13</p>
 </body>
 </html>
