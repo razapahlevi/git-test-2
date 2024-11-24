@@ -8,5 +8,11 @@
 <body>
     <h1>Selamat Datang Di Soul Society</h1>
     <p>Selamat datang para kapten gotei 13</p>
+    <ul>
+        <li>Aizen Sosouke</li>
+        <li>Kurosaki Ichigo</li>
+        <li>Haschwalth</li>
+        <li>Gerrad Valkrie</li>
+    </ul>
 </body>
 </html>
